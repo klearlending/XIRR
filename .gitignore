@@ -1,0 +1,10 @@
+*.suo
+*.pdb
+*.user
+*.dbmdl
+*.jfm
+.vs/
+packages/
+TestResults/
+bin
+obj

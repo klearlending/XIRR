@@ -2,7 +2,7 @@
 A library to calculate XIRR in .NET\
 Usage:\
 The method is `public static double XIRR(List<CashFlowDates> cashflows, int decimals = 4, double maxRate = 1000000)`\
-Example:\
+Example:
 ```cs
            var cashFlows = new List<CashFlowDates>()
             {

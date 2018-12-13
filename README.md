@@ -14,4 +14,4 @@ Example:
 
 ```
 
-You can find a detailed explanation of the algorithm and implementation [here](https://www.klearlending.com).
+You can find a detailed explanation of the algorithm and implementation [here](https://www.klearlending.com/en/Blog/Articles/XIRR-demystified).
